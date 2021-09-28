@@ -1,0 +1,2 @@
+# exerciciosql
+exercício de fixar
